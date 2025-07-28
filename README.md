@@ -75,3 +75,13 @@ Serão avaliados os seguintes pontos:
 1. Crie um fork deste repositório.
 2. Implemente a solução.
 3. Faça commits frequentes e claros.
+
+## Prints da tela
+
+<img src="print1.png">
+
+<img src="print2.png">
+
+<img src="print3.png">
+
+<img src="print4.png">
